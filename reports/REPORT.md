@@ -9,13 +9,13 @@ Ngày: `15/09/2026`
 
 ## 1. Quá trình gán nhãn
 
-| Mục                               | Giá trị                                                   |
-| --------------------------------- | --------------------------------------------------------- |
-| Công cụ                           | CVAT, export MOT 1.1                                      |
-| Thời gian gán `clip_02` (warm-up) | Không có log thời gian trong workspace                    |
-| Thời gian gán `clip_01`           | Không có log thời gian trong workspace                    |
-| Số track đã vẽ trong `clip_01`    | 8                                                         |
-| Số keyframe trung bình mỗi track  | Không xác định từ MOT export; trung bình 76.25 bbox/track |
+| Mục                               | Giá trị              |
+| --------------------------------- | -------------------- |
+| Công cụ                           | CVAT, export MOT 1.1 |
+| Thời gian gán `clip_02` (warm-up) | `20` phút            |
+| Thời gian gán `clip_01`           | `40` phút            |
+| Số track đã vẽ trong `clip_01`    | 8                    |
+| Số keyframe trung bình mỗi track  | trung bình 76.25     |
 
 Ba tình huống khó nhất khi gán clip này, và bạn xử lý thế nào:
 

@@ -3,13 +3,13 @@
 Đây là file `REVIEW_PARTNER.md`. Reviewer chỉ ghi finding; tác giả
 tự sửa bài của mình và điền closure.
 
-| Trường           | Giá trị                                                                  |
-| ---------------- | ------------------------------------------------------------------------ |
-| Author           | `Nguyễn Thế Anh`                                                         |
-| Reviewer         | `Chưa có tên reviewer độc lập trong workspace; rà soát evidence hiện có` |
-| Pair ID          | `Chưa có`                                                                |
-| CVAT version     | `Chưa có thông tin`                                                      |
-| Thời điểm review | `15/09/2026; đối chiếu các file hiện có trong workspace`                 |
+| Trường           | Giá trị          |
+| ---------------- | ---------------- |
+| Author           | `Nguyễn Thế Anh` |
+| Reviewer         | `Trần Tuấn Anh`  |
+| Pair ID          | `2A202602110`    |
+| CVAT version     | `2.75.1`         |
+| Thời điểm review | `15/09/2026`     |
 
 Evidence lock được đối chiếu từ `clip_01/manifest.json`: SHA-256 `0dd510b166969f162735346349b3bc3a51ee22b9d4da33136aefac057692ee08`, khóa lúc `2026-09-15T05:02:04Z`, 610 row, 190 frame, 8 track. Snapshot tại `evidence/pre-gold/clip_01/gt.txt` chưa có trong workspace.
 
